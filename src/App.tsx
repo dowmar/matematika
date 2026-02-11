@@ -281,6 +281,16 @@ function App() {
           </a>
         </div>
       </main>
+
+      {/* Made by */}
+      <a 
+        href="https://github.com/dowmar"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed bottom-4 right-4 text-xs text-slate-400 hover:text-slate-600 transition-colors"
+      >
+        made by dowmar(github)
+      </a>
     </div>
   );
 }
