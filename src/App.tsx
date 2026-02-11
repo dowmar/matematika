@@ -104,7 +104,7 @@ function App() {
               </div>
             </div>
             <a 
-              href="https://7jhhgvyartw46.ok.kimi.link" 
+              href="https://mathquest-gules.vercel.app" 
               target="_blank" 
               rel="noopener noreferrer"
             >
@@ -271,7 +271,7 @@ function App() {
             MathQuest - Belajar Geometri dengan Seru!
           </p>
           <a 
-            href="https://7jhhgvyartw46.ok.kimi.link" 
+            href="https://mathquest-gules.vercel.app" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 mt-2 text-violet-600 hover:text-violet-700 font-medium"
